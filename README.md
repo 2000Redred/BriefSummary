@@ -2,7 +2,7 @@
 
 ## Puzzletale: Masters of Myths
 
-### By Jory, Michael, and Nickolas
+### By Jory, Michael, and Nicholas
 
 #### Our game will be a simple puzzle piece RPG-esqe game. It'll
 #### have the player do simple fill-in puzzles to make offensive
